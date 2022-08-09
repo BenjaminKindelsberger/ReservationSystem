@@ -1,3 +1,3 @@
 # ReservationSystem
 
-Usage MERN Stack
+Using MERN Stack
